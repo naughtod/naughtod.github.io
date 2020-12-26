@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById('demo').innerHTML = Date();
+    document.getElementById('demo').innerHTML = "My First JavaScript";
 }
