@@ -2,8 +2,9 @@ a {
     color: #B0C4DE;
 }
 
-main {
-    font-family: Calibri;
+body {
+    background-color: #474e5d;
+    font-family: Helvetica, sans-serif;
     font-size: 1.4em;
     line-height: 1.5em;
 }
